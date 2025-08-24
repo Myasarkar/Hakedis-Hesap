@@ -1,0 +1,5 @@
+{
+  "name": "Hakediş Takip Uygulaması",
+  "description": "Turizm firmalarından gelen araçlar için komisyon ödemelerini takip etmek, filtrelemek ve raporlamak için bir web uygulaması.",
+  "requestFramePermissions": []
+}
